@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-
+    // hui
     public static void main(String[] args) {
         /* Объявите переменные name1, name2, name3 типа String.
         Сразу же в строке объявления присвойте им какие-нибудь значения.
