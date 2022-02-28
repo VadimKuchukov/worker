@@ -10,7 +10,7 @@ public class Main {
         String name1 = "Alex";
         String name2 = "Nick";
         String name3 = "Eric";
-
+        //hello
         /* Напиши программу, которая выводит на экран надпись:
         «Когда я вырасту, то хочу быть паровым экскаватором!» 10 раз.
          */
